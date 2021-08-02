@@ -1,0 +1,68 @@
+sharedHeaders:
+  Content-Type: application/json
+  app-version: 13.0.0
+  tui-app-img-bucket-size: medium
+  device-os: ios
+  correlation-id: 46c8dd96-05e2-44ef-92f3-22e1e974bac1
+nodeHeaders:
+  x-api-key: x-api-key
+  x-access-token: x-api-token
+awsHeaders:
+  dev:
+    x-api-key: x-api-key
+  test:
+    x-api-key: x-api-key
+  uat:
+    x-api-key: x-api-key
+  preprod:
+    x-api-key: x-api-key
+  prod:
+    x-api-key: x-api-key
+no-sv:
+  app-name: tui-no-sv
+  app-locale: sv-SE
+  tui-app-country: SE
+no-no:
+  app-name: tui-no-no
+  app-locale: nb-NO
+  tui-app-country: NO
+no-fi:
+  app-name: tui-no-fi
+  app-locale: fi-FI
+  tui-app-country: FI
+no-dk:
+  app-name: tui-no-dk
+  app-locale: da-DK
+  # tui-app-country: DK
+uk-th:
+  app-name: tui-uk-th
+  app-locale: en-GB
+  tui-app-country: GB
+uk-fc:
+  app-name: tui-uk-fc
+  app-locale: en-GB
+  tui-app-country: GB
+nl:
+  app-name: tui-nl
+  app-locale: nl-NL
+  # tui-app-country: NL
+be-sj:
+  app-name: tui-be-sj
+  app-locale: fr-BE
+  tui-app-country: BE
+be-ja:
+  app-name: tui-be-ja
+  app-locale: nl-BE
+  tui-app-country: BE
+be-tf:
+  app-name: tui-be-ja
+  app-locale: nl-BE
+  tui-app-country: BE
+de-tc:
+  app-name: tui-de-tc
+  app-locale: de-DE
+  tui-app-country: DE
+de-mt:
+  app-name: tui-de-mt
+  app-locale: de-DE
+  tui-app-country: DE

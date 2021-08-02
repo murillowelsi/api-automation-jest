@@ -1,0 +1,28 @@
+de:
+  bookingType: de-mt
+  bookingInfo:
+    bookingRef: 30106997
+    username: nicole.lavic@tui.de
+    password: meinetui
+    withBookingSummaries: false
+uk:
+  bookingType: uk-th
+  bookingInfo:
+    bookingRef: 12333105
+    additionalInfo: Digitalquality
+    departureDate: 2021-08-06
+nl:
+  bookingType: nl
+  bookingInfo:
+    bookingRef: DGQW83
+    additionalInfo: Beerentos
+be:
+  bookingType: be-ja
+  bookingInfo:
+    bookingRef: 019452724
+    additionalInfo: Snauwaert
+no:
+  bookingType: no-dk
+  bookingInfo:
+    bookingRef: 13114237
+    additionalInfo: ann-louise.ehrl@tui.se

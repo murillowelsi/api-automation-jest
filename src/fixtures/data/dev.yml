@@ -1,0 +1,28 @@
+de:
+  bookingType: 'de-tc'
+  bookingInfo:
+    bookingRef: 82027560
+    username: nikita.pachkhede@tui.co.uk
+    password: meinetui1!
+    withBookingSummaries: false
+uk:
+  bookingType: 'uk-th'
+  bookingInfo:
+    bookingRef: 10388407
+    additionalInfo: 'Henry'
+    departureDate: '2021-06-03'
+nl:
+  bookingType: 'nl'
+  bookingInfo:
+    bookingRef: 'CXTDK4'
+    additionalInfo: aowad
+be:
+  bookingType: 'be-ja'
+  bookingInfo:
+    bookingRef: 100841944
+    additionalInfo: 'PO'
+no:
+  bookingType: 'no-dk'
+  bookingInfo:
+    bookingRef: 30050389
+    additionalInfo: 'maria.johansson@tui.se'

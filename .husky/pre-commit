@@ -1,0 +1,6 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+rm -rf report/
+yarn lint:fix
+yarn prettier src/**/*.js --write .
